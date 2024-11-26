@@ -33,12 +33,12 @@ interest:
 - **[MIT OpenCourseWare: Data Science](https://ocw.mit.edu/courses/data-science/):** 
   Free courses to boost your data analytics knowledge.  
 - **[PolicyViz](https://policyviz.com/):** For tips and tricks on effective data 
-  visualization.  
+  visualization.
 
 ## LinkedIn
 
-Let’s connect! Find me on [LinkedIn](https://www.linkedin.com/mustafamayarr). I’m always 
-excited to share ideas and collaborate on meaningful projects.
+Let’s connect! Find me on [LinkedIn](https://www.linkedin.com/in/mustafamayarr). 
+I’m always excited to share ideas and collaborate on meaningful projects.
 
 ---
 
